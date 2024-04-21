@@ -1,5 +1,5 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
+  "spider": "./cc.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
@@ -54,36 +54,6 @@
     {"key":"csp_zhibo_huya","name":"💥虎牙直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/虎牙直播.js"},
     {"key":"csp_zhibo_bili","name":"💥哔哩直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/哔哩直播.js"},
     {"key":"drpy_js_310直播","name":"💥310直播(体育)","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/310直播.js"},
-    {
-      "key": "csp_KungFu404",
-      "name": "🇹┃米咪vip1┃",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "./lib/阿里设置.txt"
-    },
-       {
-      "key": "白嫖",
-      "name": "白飘",
-      "type": 3,
-      "api": "csp_BaiPiao",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.baipiaoys.com:9092/"
-    },
-        {
-      "key": "苹果",
-      "name": "苹果",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
      {
       "key": "玩偶",
       "name": "玩偶哥哥(网盘4K)",
@@ -100,6 +70,37 @@
         "danMu": "弹"
       }
     },
+    {
+      "key": "csp_KungFu404",
+      "name": "🇹┃米咪vip1┃",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "./lib/阿里设置.txt"
+    },
+       {
+      "key": "白嫖",
+      "name": "🇹┃米咪vip66┃",
+      "type": 3,
+      "api": "csp_BaiPiao",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.baipiaoys.com:9092/"
+    },
+        {
+      "key": "苹果",
+      "name": "🇹┃米咪vip77┃",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    
     {
       "key": "玩偶哥哥",
       "name": "🇹┃米咪vip2┃",
